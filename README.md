@@ -12,7 +12,7 @@
 - It is responsive in design
 
 🌐 Live Demo:
-- Link :- 
+- Link :- https://akashakp-react-geeknerdpotd.netlify.app/
 
 🙌 New learnings:
 - Integrating Tailwind CSS with React project
